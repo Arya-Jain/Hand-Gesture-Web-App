@@ -71,7 +71,7 @@ function gotResults(error,results){
 
 
         if(prediction_2 == 'Dislike'){
-            document.getElementById("result_emoji2").innerHTML = "&#128522;";
+            document.getElementById("result_emoji2").innerHTML = "&#128078;";
         }
         else if(prediction_2 =='Clap'){
             document.getElementById('result_emoji2').innerHTML = "&#128079;";
